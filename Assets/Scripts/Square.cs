@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class VoxoSquare : MonoBehaviour
+public class Square : MonoBehaviour
 {
     public Transform targetGate; 
     private bool isMoving = false;

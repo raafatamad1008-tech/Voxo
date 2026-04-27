@@ -49,7 +49,7 @@ public class GridManager : MonoBehaviour
                 // داخل حلقة الـ Loop في GenerateLevel
                 // ... الكود السابق للحجم والموقع ...
 
-                VoxoSquare squareScript = newSquare.AddComponent<VoxoSquare>();
+                Square squareScript = newSquare.AddComponent<Square>();
 
                 // اختيار اتجاه عشوائي (أعلى، أسفل، يمين، يسار)
                 Vector2[] directions = { Vector2.up, Vector2.down, Vector2.left, Vector2.right };
