@@ -1,0 +1,94 @@
+# =========================
+# Unity generated folders
+# =========================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# =========================
+# MemoryCaptures (Unity)
+# =========================
+MemoryCaptures/
+
+# =========================
+# Asset meta files (keep these!)
+# =========================
+!/[Aa]ssets/**/*.meta
+!/[Pp]ackages/**/*.meta
+
+# =========================
+# Visual Studio / Rider / VSCode
+# =========================
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Unity Cache Server
+# =========================
+/Cache/
+
+# =========================
+# Crash reports
+# =========================
+sysinfo.txt
+
+# =========================
+# Build results
+# =========================
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+*.ipa
+
+# =========================
+# Addressables build
+# =========================
+ServerData/
+
+# =========================
+# StreamingAssets (optional)
+# =========================
+# Uncomment if generated at runtime
+# Assets/StreamingAssets/
+
+# =========================
+# IL2CPP builds
+# =========================
+il2cpp_cache/
+
+# =========================
+# Android / Gradle
+# =========================
+.gradle/
+*.gradle
